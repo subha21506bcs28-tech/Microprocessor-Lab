@@ -1,4 +1,8 @@
-            ORG 8000H
+; EXPERIMENT NO: 9
+; PROGRAM NO: 4
+; AIM: To sort an array in ascending order
+ 
+                        ORG 8000H
 
 START:
             MOV DPTR,#9000H
@@ -19,4 +23,4 @@ START:
             INC DPTR
             MOVX @DPTR,A
 
-            END
+END
