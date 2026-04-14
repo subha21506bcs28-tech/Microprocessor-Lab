@@ -1,4 +1,4 @@
-# EX5 – 8255 Modes of Operation
+# EX7 – 8255 Modes of Operation
 ## Aim
 To study and implement different modes of operation of the 8255 Programmable Peripheral Interface (PPI).
 ## Programs Included
