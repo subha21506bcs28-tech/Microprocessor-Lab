@@ -1,4 +1,4 @@
-# EX1 – 8086 Assembly Language Programs
+# EX3 – 8086 Assembly Language Programs
 ## Aim
 To study and implement basic 8086 assembly language programs.
 ## Programs Included
