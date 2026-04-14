@@ -16,7 +16,7 @@ To implement array manipulation techniques such as sorting, searching, and rever
 - Reverses the elements of an array
 - Uses two-pointer method (start and end swapping)
 
-## 🛠️ Concepts Used
+## Concepts Used
 - Array Processing
 - Looping and Iteration
 - Conditional Instructions (CMP, JNZ, JGE)
