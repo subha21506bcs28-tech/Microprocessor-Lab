@@ -28,7 +28,7 @@ L1:
         MOV DX,FFE0H
         OUT DX,AL
         INC AL
-        CMP AL,0FFH
+        CMP AL,FFH
         JNZ L1
 
 L2:
