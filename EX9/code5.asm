@@ -1,6 +1,6 @@
 ; EXPERIMENT NO: 9
 ; PROGRAM NO: 4
-; AIM: To sort an array in ascending order
+; AIM: octal to hex
  
                         ORG 8000H
 
